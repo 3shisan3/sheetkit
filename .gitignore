@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# 运行输出（不要提交用户数据）
+out/
+out-*/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
